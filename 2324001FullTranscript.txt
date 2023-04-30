@@ -1,0 +1,45 @@
+
+Student Details - Level U (BS)Name: Julia-Ann Christian Lasala        Student ID: 2324001College: College of Engineering         Department: COE Department 1Major: COED1MajorCpE1                   Minor: COED1MinorCpE1Levels: U                               Number of Terms: 2====================================================================***********                    Term 1                    ***********====================================================================Course ID          Course Name          Credit Hours          Grade
+CMPE1         Computer Engineering 1         3                  91   CMPE2         Computer Engineering 2         3                  96   C1            Communication 1                1                  90   Major Average = 94                      Minor Average: 90Term Average = 92                       Overall Average: 92====================================================================***********                    Term 2                    ***********====================================================================Course ID          Course Name          Credit Hours          Grade
+CMPE3         Computer Engineering 3         1                  92   C2            Communication 2                1                  93   C3            Communication 3                1                  90   Major Average = 92                      Minor Average: 92Term Average = 92                       Overall Average: 92====================================================================***********           End of Transcript Level B          ***********====================================================================
+Student Details - Level G (M)
+Name: Julia-Ann Christian Lasala        Student ID: 2324001
+College: College of Engineering         Department: COEDepartmentM1
+Major: COEDM1MajorCpE1                   Minor: COEDM1MinorCpE1
+Levels: G                               Number of Terms: 2
+====================================================================
+***********                    Term 1                    ***********
+====================================================================
+Course ID          Course Name          Credit Hours          Grade
+CMPEM1        Computer Engineering M1        4                  85   
+CM1           Communication M1               2                  89   
+Major Average = 85                      Minor Average: 89Term Average = 84                       Overall Average: 86====================================================================
+***********                    Term 2                    ***********
+====================================================================
+Course ID          Course Name          Credit Hours          Grade
+CMPEM2        Computer Engineering M2        4                  87   
+CM2           Communication M2               2                  82   
+Major Average = 87                      Minor Average: 82Term Average = 84                       Overall Average: 86====================================================================
+***********        End of Transcript Level G - M         ***********
+====================================================================
+
+Student Details - Level G (D)
+Name: Julia-Ann Christian Lasala        Student ID: 2324001
+College: College of Engineering         Department: COEDepartmentD1
+Major: COEDD1MajorCpE1                   Minor: COEDD1MinorCpE1
+Levels: G                               Number of Terms: 2
+====================================================================
+***********                    Term 1                    ***********
+====================================================================
+Course ID          Course Name          Credit Hours          Grade
+CMPED1        Computer Engineering D1        4                  90   
+CD1           Communication D1               2                  91   
+Major Average = 90                      Minor Average: 91Term Average = 96                       Overall Average: 93====================================================================
+***********                    Term 2                    ***********
+====================================================================
+Course ID          Course Name          Credit Hours          Grade
+CMPED2        Computer Engineering D2        4                  94   
+CD2           Communication D2               2                  97   
+Major Average = 94                      Minor Average: 97Term Average = 96                       Overall Average: 93====================================================================
+***********        End of Transcript Level G - D        ***********
+====================================================================

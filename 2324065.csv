@@ -1,0 +1,5 @@
+Level,Degree,Term,Course Name,courseID,courseType,creditHours,Grade
+G,M,Term 1,Computer Engineering M1,CMPEM1,Major,4,81
+G,M,Term 1,Communication M1,CM1,Minor,2,97
+G,M,Term 2,Computer Engineering M2,CMPEM2,Major,4,98
+G,M,Term 2,Communication M2,CM2,Minor,2,92

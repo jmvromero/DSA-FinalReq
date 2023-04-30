@@ -1,0 +1,23 @@
+Student Details- Level U BS
+Name: Julia-Ann Christian Lasala        Student ID: 2324001
+College: College of Engineering         Department: COE Department 1
+Major: COED1MajorCpE1                   Minor: COED1MinorCpE1
+Levels: U                               Number of Terms: 2
+====================================================================
+***********                    Term 1                    ***********
+====================================================================
+Course ID          Course Name          Credit Hours          Grade
+C1            Communication 1                1                  90   
+
+Major Average = 90                     Overall Average: 91
+====================================================================
+***********                    Term 2                    ***********
+====================================================================
+Course ID          Course Name          Credit Hours          Grade
+C2            Communication 2                1                  93   
+C3            Communication 3                1                  90   
+
+Major Average = 92                     Overall Average: 91
+====================================================================
+***********          End of Transcript Level U           ***********
+====================================================================

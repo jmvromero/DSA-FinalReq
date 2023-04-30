@@ -1,0 +1,15 @@
+Level,Degree,Term,Course Name,courseID,courseType,creditHours,Grade
+U,BS,Term 1,Computer Engineering 1,CMPE1,Major,3,91
+U,BS,Term 1,Computer Engineering 2,CMPE2,Major,3,96
+U,BS,Term 1,Communication 1,C1,Minor,1,90
+U,BS,Term 2,Computer Engineering 3,CMPE3,Major,1,92
+U,BS,Term 2,Communication 2,C2,Minor,1,93
+U,BS,Term 2,Communication 3,C3,Minor,1,90
+G,M,Term 1,Computer Engineering M1,CMPEM1,Major,4,85
+G,M,Term 1,Communication M1,CM1,Minor,2,89
+G,M,Term 2,Computer Engineering M2,CMPEM2,Major,4,87
+G,M,Term 2,Communication M2,CM2,Minor,2,82
+G,D,Term 1,Computer Engineering D1,CMPED1,Major,4,90
+G,D,Term 1,Communication D1,CD1,Minor,2,91
+G,D,Term 2,Computer Engineering D2,CMPED2,Major,4,94
+G,D,Term 2,Communication D2,CD2,Minor,2,97

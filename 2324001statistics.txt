@@ -1,0 +1,33 @@
+
+=============================================
+********     Undergraduate Level     ********
+=============================================
+Overall average (major and minor)for all terms: 92
+Average (major and minor) of each term: 
+Term 1: 92
+Term 2:  92
+Maximum grade(s) and in which term(s): 96 - Term 1
+Minimum grade(s) and in which term(s): 90 - Term 1
+Do you have any repeated course(s): No
+
+=============================================
+********      Graduate M Level       ********
+=============================================
+Overall average (major and minor) for all terms: 86
+Average (major and minor) of each term: 
+Term 1: 87
+Term 2:  84
+Maximum grade(s) and in which term(s): 89 - Term 1
+Minimum grade(s) and in which term(s): 82 - Term 2
+Do you have any repeated course(s): No
+
+=============================================
+********      Graduate D Level       ********
+=============================================
+Overall average (major and minor) for all terms: 93
+Average (major and minor) of each term: 
+Term 1: 90
+Term 2:  96
+Maximum grade(s) and in which term(s): 97 - Term 2
+Minimum grade(s) and in which term(s): 90 - Term 1
+Do you have any repeated course(s): No

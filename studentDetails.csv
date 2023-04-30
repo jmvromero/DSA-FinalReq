@@ -1,0 +1,9 @@
+Serial,Student ID,Name,College,Department,Level,Degree,Major,Minor,Terms
+1,2324001,Julia-Ann Christian Lasala,College of Engineering,COE Department 1,U,BS,COED1MajorCpE1,COED1MinorCpE1,2
+2,2324001,Julia-Ann Christian Lasala,College of Engineering,COEDepartmentM1,G,M,COEDM1MajorCpE1,COEDM1MinorCpE1,2
+3,2324001,Julia-Ann Christian Lasala,College of Engineering,COEDepartmentD1,G,D,COEDD1MajorCpE1,COEDD1MinorCpE1,2
+4,2324021,John Michael Vincent Romero,College of Engineering,COEDepartment1,U,BS,COED1MajorCpE1,COED1MinorCpE1,2
+5,2324021,John Michael Vincent Romero,College of Engineering,COEDepartmentM1,G,M,COEDM1MajorCpE1,COEDM1MinorCpE1,2
+6,2324065,Dan Gabriel Lettac,College of Engineering,COEDepartmentM1,G,M,COEDM1MajorCpE1,COEDM1MinorCpE1,2
+7,2324112,Gerald Lopez,College of Engineering,COEDepartmentM1,U,BS,COED1MajorCpE1,COED1MinorCpE1,2
+8,2324112,Gerald Lopez,College of Engineering,COEDepartmentD1,G,D,COEDD1MajorCpE1,COEDD1MinorCpE1,2
